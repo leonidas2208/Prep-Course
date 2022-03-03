@@ -21,7 +21,7 @@ function conection(status) {
   //Devolver el estado de conexión de usuario en cada uno de los casos.
 }
 
-function saludo(idioma) {
+function (idioma) {
   // Devuelve un saludo en tres diferentes lenguajes:
   // Si "idioma" es "aleman", devuelve "Guten Tag!"
   // Si "idioma" es "mandarin", devuelve "Ni Hao!"
